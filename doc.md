@@ -1,0 +1,3 @@
+Execute `configure_and_make.sh` for compilation, you can modify the parameters in the script to adjust LSM tree related configurations. The executable files are located in the `cmake-build-debug` directory.
+
+See `how_to_run/run_example.fish` for instructions on running YCSB. You need to modify the corresponding storage paths in `how_to_run/run_example.fish` and `YCSB/leveldb/leveldb.properties` before running.
